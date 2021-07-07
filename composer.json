@@ -1,5 +1,5 @@
 {
-	"name" : "moonlandsoft/yii2-phpexcel",
+	"name" : "sawich/yii2-phpexcel",
 	"description" : "Exporting PHP to Excel or Importing Excel to PHP",
 	"type" : "yii2-extension",
 	"keywords" : [
